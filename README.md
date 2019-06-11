@@ -2,7 +2,8 @@
 <h1> TAMBIÉN LES DEJO MI PÁGINA WEB PARA QUE VEAN MÁS DETALLADO TODA LA INFORMACIÓN </h1>
 https://jhonnyveracervantes.github.io/Lenguaje_Bajo_Nivel/
 <h1>EMU8086</h1>
-<img src="imagen.jpg">
+<div align="center"><img src="imagen.jpg"></div>
+
 <p>Emu8086 es un emulador del microprocesador 8086 (Intel o AMD compatible) con assembler integrado. A diferencia del entorno de programación en assembler utilizado anteriormente en la cátedra (MASM), este entorno corre sobre Windows y cuenta con una interfaz gráfica muy amigable e intuitiva que facilita el aprendizaje el lenguaje de programación en assembler.</p>
 <h2>DESCRIPCIÓN.</h2>
 <p> El emulador 8086 fue el primer que se utilizó para impartir un curso de microprocesadores por la universidad de Don Bosco; Este emulador posee una interfaz de usuario muy amistosa que permite familiarizarse con los fundamentos de la programación en lenguaje ensamblador de forma muy intuitiva, aparte de eso brinda una serie de recursos para ejecutar y depurar los programas</p>
