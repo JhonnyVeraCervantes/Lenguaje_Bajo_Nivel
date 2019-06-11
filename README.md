@@ -19,6 +19,7 @@ https://jhonnyveracervantes.github.io/Lenguaje_Bajo_Nivel/
 <h2>PANTALLA DE COMPILACIÓN</h2>
 <p>Al momento de dar compile Mientras se abre una ventana llamada “assembler status” que le informa sobre los resultados del proceso. Si el resultado es exitoso observará un mensaje como el de la figura en caso contrario se muestran los errores generados.</p>
 <h2>PANTALLA DEL EMULADOR</h2>
+<div align="center"><img src="1.png"></div>
 <p>•	File, permite administrar (cargar o salvar) los archivos que va creando o ejecutando
 <p>•	Math, da acceso a una calculadora y un convertidor de basas de numeración. 
 <p>•	Debug, provee herramientas para depurar programas.
@@ -101,6 +102,7 @@ https://emu8086.waxoo.com/
 <p> 5.	Siguiente hasta que se instale
 
 <p>Una vez instalado, le damos clic derecho al programa y lo ejecutamos.
+ <div align="center"><img src="2.png"></div>
 <p>Nos va a pedir que ingresemos una cuenta
   
                 Licensee Name: Craked-By-Team-AgressioN!!
