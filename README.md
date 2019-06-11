@@ -14,6 +14,10 @@ https://jhonnyveracervantes.github.io/Lenguaje_Bajo_Nivel/
 <h2> DESVENTAJAS</h2>
 <p>•	No soportar algunas de las interrupciones más interesantes que posee el sistema operativo.</p>
 <p>•	Tampoco puede acceder a los puertos físicos (reales), sino que los emula usando otros programas.</p>
+<h2> Se muestra a continuación una tabla comparativa con las diferencias entre el entorno de programación
+en assembler utilizado anteriormente en la cátedra (MASM 6.11) y el nuevo emu8086:</h2>
+<div align="center"><img src="caract.png"></div>
+
 <h2>PANTALLA PRINCIPAL</h2>
 <p>Es donde se escribirán los archivos fuentes en lenguaje ensamblador,• Se puede ver una barra de menú de Windows con sus opciones file, edit, etc. pero también vera unas opciones poco usuales como assembler, emulator, etc. propias del emulador. También se ve una serie de botones que le permitirán crear un nuevo archivo (new), abrir un archivo que ya existe (open), abrir un ejemplo (examples), compilar un archivo fuente (compile), emular un archivo ejecutable (emulate) y otras opciones que ir descubriendo a medida que se familiarice con el programa.</p>
 <h2>PANTALLA DE COMPILACIÓN</h2>
